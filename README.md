@@ -1,2 +1,2 @@
 # DeskClock
-My first personal embedded systems project: a Desk Clock built with ESP32.
+An ESP32-based Desk Clock and Productivity Companion built from scratch.
