@@ -4,7 +4,7 @@ An ESP32-based desk clock and productivity companion.
 
 ## About the Project
 
-DeskClock is my first personal project throuhgout the Summer of 2026. My goal is to apply what I am learning throughout my Computer Engineering degree, from the past 2 years, by designing and building a real hardware project from scratch.
+DeskClock is my first personal project that I want to work on during summer 2026. My goal is to apply what I am learning throughout my Computer Engineering degree, from the past 2 years, by designing and building a real hardware project from scratch.
 
 Through this project, I aim to learn embedded systems, C++, electronics, and IoT while documenting and writing down my entire engineering journey from planning and prototyping to the final product.
 
